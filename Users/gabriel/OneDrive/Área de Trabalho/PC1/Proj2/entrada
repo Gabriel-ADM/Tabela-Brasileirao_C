@@ -1,0 +1,440 @@
+20
+atletico-mg
+fortaleza
+sao-paulo
+bragantino
+internacional
+fluminense
+coritiba
+vasco
+timetestetimetest-df
+atletico-go
+sport
+juventude
+gremio
+bahia
+cuiaba
+flamengo
+america-mg
+ceara
+athletico-pr
+santos
+---
+atletico-mg 5 x 3 santos
+fortaleza 1 x 4 athletico-pr
+sao-paulo 4 x 2 ceara
+bragantino 2 x 5 america-mg
+internacional 3 x 4 flamengo
+fluminense 1 x 2 cuiaba
+coritiba 5 x 1 bahia
+vasco 3 x 2 gremio
+timetestetimetest-df 2 x 3 juventude
+atletico-go 4 x 0 sport
+---
+atletico-mg 3 x 1 athletico-pr
+santos 1 x 1 ceara
+fortaleza 4 x 2 america-mg
+sao-paulo 2 x 5 flamengo
+bragantino 3 x 5 cuiaba
+internacional 3 x 4 bahia
+fluminense 4 x 4 gremio
+coritiba 2 x 3 juventude
+vasco 2 x 0 sport
+timetestetimetest-df 3 x 0 atletico-go
+---
+atletico-mg 5 x 3 ceara
+athletico-pr 5 x 2 america-mg
+santos 3 x 0 flamengo
+fortaleza 1 x 4 cuiaba
+sao-paulo 4 x 1 bahia
+bragantino 2 x 3 gremio
+internacional 1 x 3 juventude
+fluminense 4 x 4 sport
+coritiba 1 x 5 atletico-go
+vasco 0 x 2 timetestetimetest-df
+---
+atletico-mg 0 x 0 america-mg
+ceara 1 x 4 flamengo
+athletico-pr 0 x 3 cuiaba
+santos 4 x 3 bahia
+fortaleza 4 x 5 gremio
+sao-paulo 4 x 2 juventude
+bragantino 0 x 0 sport
+internacional 1 x 4 atletico-go
+fluminense 2 x 4 timetestetimetest-df
+coritiba 1 x 2 vasco
+---
+atletico-mg 0 x 5 flamengo
+america-mg 0 x 2 cuiaba
+ceara 1 x 4 bahia
+athletico-pr 0 x 0 gremio
+santos 4 x 3 juventude
+fortaleza 4 x 1 sport
+sao-paulo 3 x 3 atletico-go
+bragantino 0 x 2 timetestetimetest-df
+internacional 4 x 3 vasco
+fluminense 4 x 5 coritiba
+---
+atletico-mg 4 x 3 cuiaba
+flamengo 2 x 3 bahia
+america-mg 3 x 3 gremio
+ceara 5 x 5 juventude
+athletico-pr 1 x 3 sport
+santos 2 x 0 atletico-go
+fortaleza 2 x 0 timetestetimetest-df
+sao-paulo 0 x 3 vasco
+bragantino 5 x 2 coritiba
+internacional 0 x 3 fluminense
+---
+atletico-mg 3 x 1 bahia
+cuiaba 4 x 5 gremio
+flamengo 0 x 4 juventude
+america-mg 0 x 3 sport
+ceara 0 x 4 atletico-go
+athletico-pr 2 x 1 timetestetimetest-df
+santos 4 x 2 vasco
+fortaleza 3 x 5 coritiba
+sao-paulo 2 x 0 fluminense
+bragantino 1 x 2 internacional
+---
+atletico-mg 3 x 3 gremio
+bahia 5 x 5 juventude
+cuiaba 2 x 5 sport
+flamengo 0 x 2 atletico-go
+america-mg 0 x 2 timetestetimetest-df
+ceara 5 x 2 vasco
+athletico-pr 5 x 4 coritiba
+santos 4 x 1 fluminense
+fortaleza 0 x 0 internacional
+sao-paulo 1 x 3 bragantino
+---
+atletico-mg 5 x 2 juventude
+gremio 0 x 1 sport
+bahia 0 x 5 atletico-go
+cuiaba 2 x 5 timetestetimetest-df
+flamengo 2 x 5 vasco
+america-mg 5 x 3 coritiba
+ceara 0 x 2 fluminense
+athletico-pr 4 x 5 internacional
+santos 5 x 4 bragantino
+fortaleza 0 x 4 sao-paulo
+---
+atletico-mg 0 x 2 sport
+juventude 2 x 1 atletico-go
+gremio 0 x 0 timetestetimetest-df
+bahia 1 x 3 vasco
+cuiaba 0 x 0 coritiba
+flamengo 0 x 3 fluminense
+america-mg 0 x 4 internacional
+ceara 5 x 2 bragantino
+athletico-pr 3 x 1 sao-paulo
+santos 3 x 0 fortaleza
+---
+atletico-mg 0 x 5 atletico-go
+sport 2 x 4 timetestetimetest-df
+juventude 4 x 3 vasco
+gremio 3 x 4 coritiba
+bahia 0 x 1 fluminense
+cuiaba 1 x 1 internacional
+flamengo 1 x 5 bragantino
+america-mg 0 x 1 sao-paulo
+ceara 4 x 1 fortaleza
+athletico-pr 1 x 5 santos
+---
+atletico-mg 4 x 4 timetestetimetest-df
+atletico-go 2 x 5 vasco
+sport 5 x 5 coritiba
+juventude 0 x 1 fluminense
+gremio 0 x 1 internacional
+bahia 4 x 5 bragantino
+cuiaba 4 x 5 sao-paulo
+flamengo 3 x 5 fortaleza
+america-mg 4 x 0 santos
+ceara 2 x 4 athletico-pr
+---
+atletico-mg 1 x 4 vasco
+timetestetimetest-df 4 x 5 coritiba
+atletico-go 4 x 4 fluminense
+sport 5 x 5 internacional
+juventude 2 x 0 bragantino
+gremio 4 x 0 sao-paulo
+bahia 4 x 4 fortaleza
+cuiaba 5 x 3 santos
+flamengo 0 x 0 athletico-pr
+america-mg 1 x 4 ceara
+---
+atletico-mg 4 x 4 coritiba
+vasco 0 x 0 fluminense
+timetestetimetest-df 4 x 1 internacional
+atletico-go 0 x 1 bragantino
+sport 5 x 2 sao-paulo
+juventude 2 x 3 fortaleza
+gremio 4 x 4 santos
+bahia 5 x 2 athletico-pr
+cuiaba 4 x 5 ceara
+flamengo 3 x 1 america-mg
+---
+atletico-mg 3 x 0 fluminense
+coritiba 2 x 3 internacional
+vasco 2 x 5 bragantino
+timetestetimetest-df 3 x 2 sao-paulo
+atletico-go 1 x 4 fortaleza
+sport 4 x 2 santos
+juventude 5 x 5 athletico-pr
+gremio 0 x 5 ceara
+bahia 5 x 4 america-mg
+cuiaba 2 x 5 flamengo
+---
+atletico-mg 1 x 1 internacional
+fluminense 4 x 1 bragantino
+coritiba 0 x 4 sao-paulo
+vasco 3 x 4 fortaleza
+timetestetimetest-df 1 x 2 santos
+atletico-go 5 x 1 athletico-pr
+sport 4 x 3 ceara
+juventude 1 x 2 america-mg
+gremio 3 x 4 flamengo
+bahia 5 x 3 cuiaba
+---
+atletico-mg 5 x 2 bragantino
+internacional 4 x 5 sao-paulo
+fluminense 5 x 1 fortaleza
+coritiba 0 x 0 santos
+vasco 1 x 0 athletico-pr
+timetestetimetest-df 1 x 3 ceara
+atletico-go 4 x 5 america-mg
+sport 2 x 3 flamengo
+juventude 4 x 1 cuiaba
+gremio 1 x 5 bahia
+---
+atletico-mg 3 x 0 sao-paulo
+bragantino 1 x 4 fortaleza
+internacional 0 x 5 santos
+fluminense 5 x 1 athletico-pr
+coritiba 2 x 3 ceara
+vasco 0 x 2 america-mg
+timetestetimetest-df 5 x 3 flamengo
+atletico-go 2 x 3 cuiaba
+sport 1 x 0 bahia
+juventude 3 x 2 gremio
+---
+atletico-mg 3 x 3 fortaleza
+sao-paulo 5 x 0 santos
+bragantino 1 x 0 athletico-pr
+internacional 1 x 1 ceara
+fluminense 4 x 5 america-mg
+coritiba 1 x 2 flamengo
+vasco 4 x 0 cuiaba
+timetestetimetest-df 0 x 5 bahia
+atletico-go 2 x 3 gremio
+sport 5 x 3 juventude
+---
+santos 5 x 2 atletico-mg
+athletico-pr 2 x 3 fortaleza
+ceara 5 x 5 sao-paulo
+america-mg 4 x 0 bragantino
+flamengo 5 x 3 internacional
+cuiaba 3 x 4 fluminense
+bahia 0 x 3 coritiba
+gremio 3 x 3 vasco
+juventude 0 x 2 timetestetimetest-df
+sport 4 x 2 atletico-go
+---
+athletico-pr 4 x 4 atletico-mg
+ceara 1 x 5 santos
+america-mg 2 x 0 fortaleza
+flamengo 5 x 2 sao-paulo
+cuiaba 3 x 2 bragantino
+bahia 0 x 1 internacional
+gremio 5 x 4 fluminense
+juventude 1 x 5 coritiba
+sport 0 x 5 vasco
+atletico-go 0 x 4 timetestetimetest-df
+---
+ceara 2 x 4 atletico-mg
+america-mg 4 x 0 athletico-pr
+flamengo 5 x 2 santos
+cuiaba 4 x 4 fortaleza
+bahia 4 x 5 sao-paulo
+gremio 3 x 1 bragantino
+juventude 5 x 5 internacional
+sport 4 x 5 fluminense
+atletico-go 5 x 0 coritiba
+timetestetimetest-df 0 x 5 vasco
+---
+america-mg 5 x 4 atletico-mg
+flamengo 0 x 1 ceara
+cuiaba 0 x 0 athletico-pr
+bahia 2 x 5 santos
+gremio 1 x 1 fortaleza
+juventude 1 x 5 sao-paulo
+sport 3 x 1 bragantino
+atletico-go 3 x 3 internacional
+timetestetimetest-df 3 x 2 fluminense
+vasco 3 x 5 coritiba
+---
+flamengo 4 x 0 atletico-mg
+cuiaba 2 x 4 america-mg
+bahia 4 x 4 ceara
+gremio 2 x 1 athletico-pr
+juventude 4 x 1 santos
+sport 1 x 5 fortaleza
+atletico-go 1 x 1 sao-paulo
+timetestetimetest-df 1 x 5 bragantino
+vasco 4 x 4 internacional
+coritiba 2 x 1 fluminense
+---
+cuiaba 2 x 3 atletico-mg
+bahia 4 x 2 flamengo
+gremio 4 x 1 america-mg
+juventude 1 x 3 ceara
+sport 5 x 2 athletico-pr
+atletico-go 4 x 0 santos
+timetestetimetest-df 2 x 5 fortaleza
+vasco 3 x 3 sao-paulo
+coritiba 5 x 2 bragantino
+fluminense 5 x 5 internacional
+---
+bahia 1 x 1 atletico-mg
+gremio 1 x 1 cuiaba
+juventude 3 x 4 flamengo
+sport 2 x 4 america-mg
+atletico-go 3 x 2 ceara
+timetestetimetest-df 3 x 5 athletico-pr
+vasco 3 x 4 santos
+coritiba 3 x 5 fortaleza
+fluminense 1 x 3 sao-paulo
+internacional 2 x 4 bragantino
+---
+gremio 0 x 2 atletico-mg
+juventude 5 x 2 bahia
+sport 2 x 3 cuiaba
+atletico-go 3 x 4 flamengo
+timetestetimetest-df 0 x 2 america-mg
+vasco 5 x 5 ceara
+coritiba 2 x 0 athletico-pr
+fluminense 2 x 1 santos
+internacional 1 x 0 fortaleza
+bragantino 1 x 1 sao-paulo
+---
+juventude 5 x 3 atletico-mg
+sport 1 x 0 gremio
+atletico-go 2 x 1 bahia
+timetestetimetest-df 0 x 4 cuiaba
+vasco 2 x 5 flamengo
+coritiba 2 x 0 america-mg
+fluminense 4 x 5 ceara
+internacional 4 x 2 athletico-pr
+bragantino 1 x 1 santos
+sao-paulo 3 x 0 fortaleza
+---
+sport 4 x 0 atletico-mg
+atletico-go 4 x 0 juventude
+timetestetimetest-df 0 x 4 gremio
+vasco 4 x 3 bahia
+coritiba 0 x 1 cuiaba
+fluminense 5 x 4 flamengo
+internacional 4 x 0 america-mg
+bragantino 1 x 5 ceara
+sao-paulo 0 x 2 athletico-pr
+fortaleza 2 x 2 santos
+---
+atletico-go 4 x 4 atletico-mg
+timetestetimetest-df 1 x 1 sport
+vasco 3 x 3 juventude
+coritiba 0 x 4 gremio
+fluminense 2 x 5 bahia
+internacional 5 x 4 cuiaba
+bragantino 0 x 2 flamengo
+sao-paulo 2 x 5 america-mg
+fortaleza 4 x 5 ceara
+santos 5 x 4 athletico-pr
+---
+timetestetimetest-df 1 x 1 atletico-mg
+vasco 1 x 3 atletico-go
+coritiba 3 x 1 sport
+fluminense 4 x 0 juventude
+internacional 0 x 3 gremio
+bragantino 0 x 4 bahia
+sao-paulo 0 x 0 cuiaba
+fortaleza 3 x 1 flamengo
+santos 2 x 0 america-mg
+athletico-pr 0 x 3 ceara
+---
+vasco 5 x 5 atletico-mg
+coritiba 0 x 1 timetestetimetest-df
+fluminense 4 x 0 atletico-go
+internacional 2 x 0 sport
+bragantino 0 x 5 juventude
+sao-paulo 3 x 4 gremio
+fortaleza 2 x 5 bahia
+santos 3 x 5 cuiaba
+athletico-pr 4 x 4 flamengo
+ceara 0 x 4 america-mg
+---
+coritiba 2 x 3 atletico-mg
+fluminense 4 x 4 vasco
+internacional 3 x 3 timetestetimetest-df
+bragantino 0 x 1 atletico-go
+sao-paulo 5 x 4 sport
+fortaleza 2 x 4 juventude
+santos 0 x 1 gremio
+athletico-pr 3 x 5 bahia
+ceara 2 x 3 cuiaba
+america-mg 0 x 1 flamengo
+---
+fluminense 0 x 3 atletico-mg
+internacional 0 x 0 coritiba
+bragantino 0 x 5 vasco
+sao-paulo 3 x 1 timetestetimetest-df
+fortaleza 0 x 2 atletico-go
+santos 5 x 1 sport
+athletico-pr 1 x 5 juventude
+ceara 4 x 4 gremio
+america-mg 1 x 1 bahia
+flamengo 5 x 1 cuiaba
+---
+internacional 3 x 5 atletico-mg
+bragantino 3 x 3 fluminense
+sao-paulo 0 x 4 coritiba
+fortaleza 4 x 2 vasco
+santos 3 x 2 timetestetimetest-df
+athletico-pr 1 x 1 atletico-go
+ceara 1 x 4 sport
+america-mg 5 x 1 juventude
+flamengo 5 x 2 gremio
+cuiaba 0 x 3 bahia
+---
+bragantino 5 x 0 atletico-mg
+sao-paulo 4 x 5 internacional
+fortaleza 4 x 1 fluminense
+santos 1 x 3 coritiba
+athletico-pr 2 x 0 vasco
+ceara 0 x 1 timetestetimetest-df
+america-mg 5 x 3 atletico-go
+flamengo 3 x 2 sport
+cuiaba 4 x 3 juventude
+bahia 1 x 3 gremio
+---
+sao-paulo 2 x 4 atletico-mg
+fortaleza 2 x 2 bragantino
+santos 4 x 4 internacional
+athletico-pr 0 x 4 fluminense
+ceara 5 x 1 coritiba
+america-mg 5 x 3 vasco
+flamengo 1 x 2 timetestetimetest-df
+cuiaba 0 x 3 atletico-go
+bahia 3 x 0 sport
+gremio 0 x 4 juventude
+---
+fortaleza 5 x 2 atletico-mg
+santos 5 x 4 sao-paulo
+athletico-pr 3 x 1 bragantino
+ceara 4 x 1 internacional
+america-mg 2 x 4 fluminense
+flamengo 0 x 0 coritiba
+cuiaba 5 x 1 vasco
+bahia 1 x 0 timetestetimetest-df
+gremio 3 x 1 atletico-go
+juventude 2 x 2 sport
+---
